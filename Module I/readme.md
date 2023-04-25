@@ -1,7 +1,8 @@
+## Module I - Bases, variables et fonctions
+
 Dans ce module, nous explorons les bases. Nous parlons ici des outils et lignes de commande nécessaires, des variables et fonctions dans Python.
 
 Pour revisionner les vidéos de la formation:*
-
 
 [Formation Développeur Python - Module 1 - Séance 1- Partie 1](https://photos.google.com/photo/AF1QipO57leyRXBzGx-9BPGW8iYvuc6zNXZXX41VMDmy)
 
