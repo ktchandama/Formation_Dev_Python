@@ -1,3 +1,5 @@
+Dans ce module, nous parlons encore des fonctions (avancé) et explorons les conditions (if statetments).
+
 [Formation Développeur Python - Module 2 - Séance 1 - Partie 1](https://photos.google.com/photo/AF1QipOX0LgzfDU3cuYgocDmMUiokaxJePlk2hso4wfY)
 
 
