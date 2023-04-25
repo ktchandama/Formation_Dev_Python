@@ -1,0 +1,1 @@
+Dans ce module, nous explorons les bases. Nous parlons ici des outils et lignes de commande nécessaires, des variables et fonctions dans Python.
