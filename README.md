@@ -6,7 +6,7 @@ Ici, vous trouverez toutes les ressources nécessaires pour la formation Dévelo
 
 PROGRAMME DE LA FORMATION DEVELOPPEUR PYTHON						
 						
-MOIS	MODULE      	        THEME				                     Nombre d'heures
+MOIS	  MODULE      	              THEME				                  Nombre d'heures
 1	    1	        Introduction à python, variables et fonctions				4
 						
 	    2	        Fonctions (avancé) et conditions dans Python				4
@@ -21,7 +21,7 @@ MOIS	MODULE      	        THEME				                     Nombre d'heures
 						
 	    7	        Unit testing et manipulation de fichiers	      			4
 						
-	    8	        Programmation orientée objet (POO)				            4
+	    8	        Programmation orientée objet (POO)				        4
 						
 3	    9	        Expressions régulières et best practices Python				4
 						
@@ -31,11 +31,11 @@ MOIS	MODULE      	        THEME				                     Nombre d'heures
 						
 	    12	        Python pour le machine learning: Sklearn 	    			4
 						
-4	    13	        Python pour le développement web: Introduction à Django		4
+4	    13	        Python pour le développement web: Introduction à Django			4
 						
 	    14	        Notions avancées avec Django				                4
 						
 	    15	        Programmation graphyque avec Tkinter	        			4
 						
-	    16	        Continuous Integration & Continuous Delivery (CI/CD)		4
+	    16	        Continuous Integration & Continuous Delivery (CI/CD)			4
 					
