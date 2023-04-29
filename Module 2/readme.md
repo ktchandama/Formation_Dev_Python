@@ -2,6 +2,7 @@
 
 Dans ce module, nous parlons encore des fonctions (avancé) et explorons les conditions (if statetments).
 
+## SEANCE I
 [Formation Développeur Python - Module 2 - Séance 1 - Partie 1](https://photos.google.com/photo/AF1QipOX0LgzfDU3cuYgocDmMUiokaxJePlk2hso4wfY)
 
 
@@ -10,8 +11,9 @@ Dans ce module, nous parlons encore des fonctions (avancé) et explorons les con
 
 [Formation Développeur Python - Module 2 - Séance 1 - Partie 3](https://photos.google.com/photo/AF1QipM_PVUr3a-fsQrnkRwdRJVXFZxVEtvQTvTXB8gr)
 
-[DevPython Module 2 - Fonctions et Conditions - Suite 1](https://photos.google.com/photo/AF1QipMNoRht_u03E0zc-g-R96Y2wM1FyKX0WK6OglpY)
+## SEANCE II
+[Formation Développeur Python - Module 2 - Séance 2 - Partie 1](https://photos.google.com/photo/AF1QipMNoRht_u03E0zc-g-R96Y2wM1FyKX0WK6OglpY)
 
- DevPython Module 2 - Fonctions et Conditions - Suite 2
+ Formation Développeur Python - Module 2 - Séance 2 - Partie 2
 
-[DevPython Module 2 - Fonctions et Conditions - Suite 3](https://photos.google.com/photo/AF1QipNHmKprxYByfLp5q7JQmIEpjnceFYY1Ki4cc0ZR)
+[Formation Développeur Python - Module 2 - Séance 2 - Partie 3](https://photos.google.com/photo/AF1QipNHmKprxYByfLp5q7JQmIEpjnceFYY1Ki4cc0ZR)
