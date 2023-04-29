@@ -12,4 +12,6 @@ Dans ce module, nous parlons encore des fonctions (avancé) et explorons les con
 
 [DevPython Module 2 - Fonctions et Conditions - Suite 1](https://photos.google.com/photo/AF1QipMNoRht_u03E0zc-g-R96Y2wM1FyKX0WK6OglpY)
 
+ DevPython Module 2 - Fonctions et Conditions - Suite 2
+
 [DevPython Module 2 - Fonctions et Conditions - Suite 3](https://photos.google.com/photo/AF1QipNHmKprxYByfLp5q7JQmIEpjnceFYY1Ki4cc0ZR)
