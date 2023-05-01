@@ -2,7 +2,7 @@
 
 Dans ce module, nous explorons les bases. Nous parlons ici des outils et lignes de commande nécessaires, des variables et fonctions dans Python.
 
-Pour revisionner les vidéos de la formation:*
+Pour revisionner les vidéos de la formation:
 
 [Formation Développeur Python - Module 1 - Séance 1- Partie 1](https://photos.google.com/photo/AF1QipO57leyRXBzGx-9BPGW8iYvuc6zNXZXX41VMDmy)
 
@@ -17,3 +17,7 @@ Pour revisionner les vidéos de la formation:*
 
 
 [Formation Développeur Python - Module 1 - Séance 2- Partie 3](https://photos.google.com/photo/AF1QipPAcvZRyu51s-vvEuR7J91fO9Pmoe8WqZf1KAsJ)
+
+
+
+##### NB: Les liens ne seront plus fonctionnels une semaine après le live.
